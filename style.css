@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+    background-color: #f7f5f5;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding:18px;
+    margin-bottom: 20px;
+    color: black;
+ background-image: linear-gradient(yellow,lightgreen);
+}
+article {
+    background-color: white;
+    padding:30px ;
+    width: 400px;
+    margin: 22px;
+}
